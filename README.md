@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://aws-prod.d1xb88hl1vgt2o.amplifyapp.com/loader_sinrotacion.gif" width="400px" alt="Loading Animation"/>
+  <img src="https://aws-prod.d1xb88hl1vgt2o.amplifyapp.com/loader_sinrotacion.gif" width="200px" alt="Loading Animation"/>
 </p>
 
 ## 🚀 Transforming Concepts into Seamless User Experiences
