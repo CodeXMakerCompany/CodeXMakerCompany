@@ -9,7 +9,7 @@ Hi! I'm **Sam (CodexMaker)**, a **Senior Software Engineer** based in **Mexico**
 - **Frontend**: React, Angular, Vue
 - **Backend**: Node.js, Python, Ruby
 - **DevOps**: AWS, GCP, Docker, Kubernetes, CI/CD
-- **Game Development**: Currently working on an **MMORPG**
+- **Game Development**: Currently working on a digital **TCG**
 
 ![Tech Stack](https://skillicons.dev/icons?i=ts,angular,react,nodejs,python,tailwind,docker,aws,gcp,git)
 
